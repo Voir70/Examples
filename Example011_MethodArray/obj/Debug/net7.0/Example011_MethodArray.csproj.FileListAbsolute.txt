@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\bin\Debug\net7.0\Example011_MethodArray.exe
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\bin\Debug\net7.0\Example011_MethodArray.deps.json
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\bin\Debug\net7.0\Example011_MethodArray.runtimeconfig.json
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\bin\Debug\net7.0\Example011_MethodArray.dll
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\bin\Debug\net7.0\Example011_MethodArray.pdb
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.AssemblyInfo.cs
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.dll
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\refint\Example011_MethodArray.dll
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.pdb
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\Example011_MethodArray.genruntimeconfig.cache
+D:\Users\antik\Documents\lection\Examples\Example011_MethodArray\obj\Debug\net7.0\ref\Example011_MethodArray.dll
