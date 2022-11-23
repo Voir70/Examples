@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\bin\Debug\net7.0\Example012_ArrayLibrary.exe
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\bin\Debug\net7.0\Example012_ArrayLibrary.deps.json
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\bin\Debug\net7.0\Example012_ArrayLibrary.runtimeconfig.json
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\bin\Debug\net7.0\Example012_ArrayLibrary.dll
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\bin\Debug\net7.0\Example012_ArrayLibrary.pdb
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.AssemblyInfo.cs
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.dll
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\refint\Example012_ArrayLibrary.dll
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.pdb
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\Example012_ArrayLibrary.genruntimeconfig.cache
+D:\Users\antik\Documents\lection\Examples\Example012_ArrayLibrary\obj\Debug\net7.0\ref\Example012_ArrayLibrary.dll
