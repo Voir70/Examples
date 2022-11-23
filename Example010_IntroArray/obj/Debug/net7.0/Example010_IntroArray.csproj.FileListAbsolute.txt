@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\bin\Debug\net7.0\Example010_IntroArray.exe
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\bin\Debug\net7.0\Example010_IntroArray.deps.json
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\bin\Debug\net7.0\Example010_IntroArray.runtimeconfig.json
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\bin\Debug\net7.0\Example010_IntroArray.dll
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\bin\Debug\net7.0\Example010_IntroArray.pdb
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.AssemblyInfo.cs
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.dll
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\refint\Example010_IntroArray.dll
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.pdb
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\Example010_IntroArray.genruntimeconfig.cache
+D:\Users\antik\Documents\lection\Examples\Example010_IntroArray\obj\Debug\net7.0\ref\Example010_IntroArray.dll
