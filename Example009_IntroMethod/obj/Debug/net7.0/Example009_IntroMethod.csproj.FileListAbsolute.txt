@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\bin\Debug\net7.0\Example009_IntroMethod.exe
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\bin\Debug\net7.0\Example009_IntroMethod.deps.json
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\bin\Debug\net7.0\Example009_IntroMethod.runtimeconfig.json
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\bin\Debug\net7.0\Example009_IntroMethod.dll
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\bin\Debug\net7.0\Example009_IntroMethod.pdb
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.AssemblyInfo.cs
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.dll
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\refint\Example009_IntroMethod.dll
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.pdb
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\Example009_IntroMethod.genruntimeconfig.cache
+D:\Users\antik\Documents\lection\Examples\Example009_IntroMethod\obj\Debug\net7.0\ref\Example009_IntroMethod.dll
